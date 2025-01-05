@@ -1,0 +1,1 @@
+This project analyzes the profiles of treadmill buyers based on various demographic and purchasing behavior data. By applying classification algorithms, the goal is to predict which customers are most likely to buy a treadmill. The analysis also includes feature engineering and visualizations that reveal patterns and trends in customer preferences.
